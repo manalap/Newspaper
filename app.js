@@ -34,7 +34,7 @@ app.post("/", function (req, res) {
         url: "https://us9.api.mailchimp.com/3.0/lists/554316bef9",
         method: "POST",
         headers: {
-            "Authorization": "Manouchehr c597d854c30b8efc9022c881b481a14e - us9"
+            "Authorization": "Man****************************"
         },
         body: JSON.stringify(data)
     }
